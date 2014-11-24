@@ -10,7 +10,7 @@ bundle
 % bundle install
 ```
 
-### config [tw](https://github.com/shokai/tw)
+### config tw
 
 ```
 % sudo gem install tw
