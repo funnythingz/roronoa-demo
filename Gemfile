@@ -1,2 +1,1 @@
-gem 'whenever', :require => false
-gem 'roronoa', '~> 1.0.3'
+gem 'roronoa', '~> 1.0.4'
